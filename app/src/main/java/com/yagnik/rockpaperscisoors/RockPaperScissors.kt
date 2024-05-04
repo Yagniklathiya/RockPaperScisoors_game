@@ -43,5 +43,6 @@ fun main() {
         println(" Congratulations $winner won " )
       }
 
+  print("Hope you win")
 
 }
