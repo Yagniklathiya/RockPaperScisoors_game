@@ -42,7 +42,6 @@ fun main() {
       else{
         println(" Congratulations $winner won " )
       }
-  print("2nd commit")
-
+       print("Hellow")
 
 }
