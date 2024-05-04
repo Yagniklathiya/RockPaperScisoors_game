@@ -43,6 +43,6 @@ fun main() {
         println(" Congratulations $winner won " )
       }
        print("Hellow")
-  print(Ok)
+  print("Fucked up 1")
 
 }
