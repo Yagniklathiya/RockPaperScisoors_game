@@ -42,10 +42,6 @@ fun main() {
       else{
         println(" Congratulations $winner won " )
       }
-       print("Hellow")
-  print("Ok")
-  println("Local change")
-  println("chnage 2 ")
-  print("This line will be merge ")
+
 
 }
